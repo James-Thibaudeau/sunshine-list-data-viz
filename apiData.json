@@ -1,0 +1,4052 @@
+{
+  "iTotalDisplayRecords": 167,
+  "16": [
+    
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "100575.19", 
+	
+		"taxable_benefits": "63.72", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Frank Knaapen", 
+	
+		"year": "2018", 
+	
+		"position": "Professor", 
+	
+		"change_percentage": "-9.90", 
+	
+		"total": "100638.91", 
+	
+		"change": "-11054.5"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "100367.43", 
+	
+		"taxable_benefits": "102.88", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Carolina Ayala", 
+	
+		"year": "2018", 
+	
+		"position": "Professor", 
+	
+		"change_percentage": "-8.87", 
+	
+		"total": "100470.31", 
+	
+		"change": "-9780.49"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "100286.46", 
+	
+		"taxable_benefits": "63.72", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Pauline Edmonds", 
+	
+		"year": "2018", 
+	
+		"position": "Professor", 
+	
+		"change_percentage": "None", 
+	
+		"total": "100350.18", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "100223.27", 
+	
+		"taxable_benefits": "102.88", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Dana Lennox", 
+	
+		"year": "2018", 
+	
+		"position": "Professor", 
+	
+		"change_percentage": "None", 
+	
+		"total": "100326.15", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "100252.94", 
+	
+		"taxable_benefits": "63.72", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Ian Allen", 
+	
+		"year": "2018", 
+	
+		"position": "Professor", 
+	
+		"change_percentage": "None", 
+	
+		"total": "100316.66", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "100212.34", 
+	
+		"taxable_benefits": "63.72", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Andrew Tyler", 
+	
+		"year": "2018", 
+	
+		"position": "Professor", 
+	
+		"change_percentage": "-5.11", 
+	
+		"total": "100276.06", 
+	
+		"change": "-5403.59"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "100063.95", 
+	
+		"taxable_benefits": "102.88", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Wissam Farah", 
+	
+		"year": "2018", 
+	
+		"position": "Professor", 
+	
+		"change_percentage": "-6.29", 
+	
+		"total": "100166.83", 
+	
+		"change": "-6724.51"
+	
+	}
+
+],
+  "15": [
+    
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "101182.4", 
+	
+		"taxable_benefits": "205.45", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Diane Charlebois", 
+	
+		"year": "2018", 
+	
+		"position": "Manager, Innovaiton Technology and Entrepreneurship, Finance and Administration", 
+	
+		"change_percentage": "None", 
+	
+		"total": "101387.85", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "101159.75", 
+	
+		"taxable_benefits": "185.09", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Victor Buglar", 
+	
+		"year": "2018", 
+	
+		"position": "Supervisor, Building Engineering and Chief Operating Engineer", 
+	
+		"change_percentage": "-1.18", 
+	
+		"total": "101344.84", 
+	
+		"change": "-1205.76"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "101116.21", 
+	
+		"taxable_benefits": "102.88", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Bruce Dwyer", 
+	
+		"year": "2018", 
+	
+		"position": "Professor", 
+	
+		"change_percentage": "0.62", 
+	
+		"total": "101219.09", 
+	
+		"change": "619.23"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "101073.82", 
+	
+		"taxable_benefits": "102.88", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Kelly Kidd", 
+	
+		"year": "2018", 
+	
+		"position": "Professor", 
+	
+		"change_percentage": "-10.64", 
+	
+		"total": "101176.7", 
+	
+		"change": "-12046.93"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "100949.86", 
+	
+		"taxable_benefits": "102.88", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Lynn Mateas", 
+	
+		"year": "2018", 
+	
+		"position": "Professor", 
+	
+		"change_percentage": "-5.80", 
+	
+		"total": "101052.74", 
+	
+		"change": "-6225.37"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "100733.6", 
+	
+		"taxable_benefits": "207.08", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Laura Campbell", 
+	
+		"year": "2018", 
+	
+		"position": "Associate Registrar, Enrollment Systems Services", 
+	
+		"change_percentage": "None", 
+	
+		"total": "100940.68", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "100740.44", 
+	
+		"taxable_benefits": "102.88", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Jim Myronyk", 
+	
+		"year": "2018", 
+	
+		"position": "Professor", 
+	
+		"change_percentage": "None", 
+	
+		"total": "100843.32", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "100582.12", 
+	
+		"taxable_benefits": "206.58", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Nigel Parker", 
+	
+		"year": "2018", 
+	
+		"position": "Manager, International Admissions and Specialty Program Registration", 
+	
+		"change_percentage": "None", 
+	
+		"total": "100788.7", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "100582.12", 
+	
+		"taxable_benefits": "206.58", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Pauline Sawyer", 
+	
+		"year": "2018", 
+	
+		"position": "Manager, Admissions Registration and Records", 
+	
+		"change_percentage": "None", 
+	
+		"total": "100788.7", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "100668.23", 
+	
+		"taxable_benefits": "102.88", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Svillen Ranev", 
+	
+		"year": "2018", 
+	
+		"position": "Professor", 
+	
+		"change_percentage": "-4.68", 
+	
+		"total": "100771.11", 
+	
+		"change": "-4951.26"
+	
+	}
+
+],
+  "14": [
+    
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "102189.05", 
+	
+		"taxable_benefits": "169.27", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Earl Green", 
+	
+		"year": "2018", 
+	
+		"position": "Manager, Security Services", 
+	
+		"change_percentage": "2.04", 
+	
+		"total": "102358.32", 
+	
+		"change": "2048.24"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "102072.18", 
+	
+		"taxable_benefits": "207.05", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Solveig Keshavjee", 
+	
+		"year": "2018", 
+	
+		"position": "Manager, Purchasing", 
+	
+		"change_percentage": "None", 
+	
+		"total": "102279.23", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "102270.82", 
+	
+		"taxable_benefits": "0.0", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Margaret Lewis", 
+	
+		"year": "2018", 
+	
+		"position": "Manager, Organizational Wellness, Compensation and Benefits", 
+	
+		"change_percentage": "None", 
+	
+		"total": "102270.82", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "102038.84", 
+	
+		"taxable_benefits": "199.72", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Shayne Hoelke", 
+	
+		"year": "2018", 
+	
+		"position": "Chair, Business Technology and Outdoor Training Department", 
+	
+		"change_percentage": "None", 
+	
+		"total": "102238.56", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "101932.57", 
+	
+		"taxable_benefits": "63.72", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Norman Hotchkiss", 
+	
+		"year": "2018", 
+	
+		"position": "Professor", 
+	
+		"change_percentage": "-3.62", 
+	
+		"total": "101996.29", 
+	
+		"change": "-3827.7"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "101721.85", 
+	
+		"taxable_benefits": "208.7", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "James Pede", 
+	
+		"year": "2018", 
+	
+		"position": "Manager, Accounting, Purchasing and Logistics", 
+	
+		"change_percentage": "None", 
+	
+		"total": "101930.55", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "101798.9", 
+	
+		"taxable_benefits": "102.88", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Kevin Murphy", 
+	
+		"year": "2018", 
+	
+		"position": "Professor", 
+	
+		"change_percentage": "None", 
+	
+		"total": "101901.78", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "101798.9", 
+	
+		"taxable_benefits": "102.88", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Steve Price", 
+	
+		"year": "2018", 
+	
+		"position": "Professor", 
+	
+		"change_percentage": "-8.56", 
+	
+		"total": "101901.78", 
+	
+		"change": "-9540.14"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "101798.9", 
+	
+		"taxable_benefits": "102.88", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "David Bray", 
+	
+		"year": "2018", 
+	
+		"position": "Professor", 
+	
+		"change_percentage": "-10.63", 
+	
+		"total": "101901.78", 
+	
+		"change": "-12118.05"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "101798.9", 
+	
+		"taxable_benefits": "102.88", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Shawn Pentecost", 
+	
+		"year": "2018", 
+	
+		"position": "Professor", 
+	
+		"change_percentage": "-8.48", 
+	
+		"total": "101901.78", 
+	
+		"change": "-9448.03"
+	
+	}
+
+],
+  "13": [
+    
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "102797.86", 
+	
+		"taxable_benefits": "102.88", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Kurt Espersen-Peters", 
+	
+		"year": "2018", 
+	
+		"position": "Professor", 
+	
+		"change_percentage": "-7.45", 
+	
+		"total": "102900.74", 
+	
+		"change": "-8282.58"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "102696.48", 
+	
+		"taxable_benefits": "102.88", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Jeff Jackson", 
+	
+		"year": "2018", 
+	
+		"position": "Professor", 
+	
+		"change_percentage": "-10.08", 
+	
+		"total": "102799.36", 
+	
+		"change": "-11525.57"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "102680.17", 
+	
+		"taxable_benefits": "90.39", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "John Dallas", 
+	
+		"year": "2018", 
+	
+		"position": "Manager, Design and Development", 
+	
+		"change_percentage": "None", 
+	
+		"total": "102770.56", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "102582.1", 
+	
+		"taxable_benefits": "94.29", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Nebojsa Zgonjanin", 
+	
+		"year": "2018", 
+	
+		"position": "Software Architect and Developer", 
+	
+		"change_percentage": "0.02", 
+	
+		"total": "102676.39", 
+	
+		"change": "20.43"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "102556.67", 
+	
+		"taxable_benefits": "102.88", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Shawn Mcbride", 
+	
+		"year": "2018", 
+	
+		"position": "Professor", 
+	
+		"change_percentage": "-7.95", 
+	
+		"total": "102659.55", 
+	
+		"change": "-8871.9"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "102601.0", 
+	
+		"taxable_benefits": "0.0", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Christopher Dore", 
+	
+		"year": "2018", 
+	
+		"position": "Professor", 
+	
+		"change_percentage": "None", 
+	
+		"total": "102601.0", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "102229.01", 
+	
+		"taxable_benefits": "209.23", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Shawn Davies", 
+	
+		"year": "2018", 
+	
+		"position": "General Manager, Retail Services", 
+	
+		"change_percentage": "None", 
+	
+		"total": "102438.24", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "102229.01", 
+	
+		"taxable_benefits": "209.23", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Marie Theriault", 
+	
+		"year": "2018", 
+	
+		"position": "Manager, Scheduling and Systems Support", 
+	
+		"change_percentage": "1.84", 
+	
+		"total": "102438.24", 
+	
+		"change": "1854.43"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "102327.82", 
+	
+		"taxable_benefits": "102.88", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Lynn Berry", 
+	
+		"year": "2018", 
+	
+		"position": "Professor", 
+	
+		"change_percentage": "None", 
+	
+		"total": "102430.7", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "102268.43", 
+	
+		"taxable_benefits": "102.88", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "David Bromley", 
+	
+		"year": "2018", 
+	
+		"position": "Professor", 
+	
+		"change_percentage": "-4.46", 
+	
+		"total": "102371.31", 
+	
+		"change": "-4777.78"
+	
+	}
+
+],
+  "12": [
+    
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "104067.27", 
+	
+		"taxable_benefits": "209.69", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Zheng Wang", 
+	
+		"year": "2018", 
+	
+		"position": "Manager, International Partnerships and Programs", 
+	
+		"change_percentage": "None", 
+	
+		"total": "104276.96", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "103769.43", 
+	
+		"taxable_benefits": "400.9", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "David Deveau", 
+	
+		"year": "2018", 
+	
+		"position": "Manager Test Centre", 
+	
+		"change_percentage": "1.80", 
+	
+		"total": "104170.33", 
+	
+		"change": "1840.84"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "103958.41", 
+	
+		"taxable_benefits": "102.88", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Reginald Dyer", 
+	
+		"year": "2018", 
+	
+		"position": "Professor", 
+	
+		"change_percentage": "None", 
+	
+		"total": "104061.29", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "103730.05", 
+	
+		"taxable_benefits": "210.27", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Michael Benkie", 
+	
+		"year": "2018", 
+	
+		"position": "Manager, Occupational Health and Safety", 
+	
+		"change_percentage": "2.39", 
+	
+		"total": "103940.32", 
+	
+		"change": "2423.22"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "103464.05", 
+	
+		"taxable_benefits": "210.27", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Wilma Allan", 
+	
+		"year": "2018", 
+	
+		"position": "Program Quality Assurance Associate", 
+	
+		"change_percentage": "1.96", 
+	
+		"total": "103674.32", 
+	
+		"change": "1995.22"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "103299.12", 
+	
+		"taxable_benefits": "102.88", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Michael Ballard", 
+	
+		"year": "2018", 
+	
+		"position": "Professor", 
+	
+		"change_percentage": "-7.99", 
+	
+		"total": "103402.0", 
+	
+		"change": "-8973.78"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "102179.43", 
+	
+		"taxable_benefits": "1159.65", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Bryan Eburne", 
+	
+		"year": "2018", 
+	
+		"position": "Manager, Fees, Curriculum and Reporting", 
+	
+		"change_percentage": "None", 
+	
+		"total": "103339.08", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "103072.83", 
+	
+		"taxable_benefits": "213.26", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Kimya Keyhan", 
+	
+		"year": "2018", 
+	
+		"position": "Manager, Academic Partnerships, Community Partnerships", 
+	
+		"change_percentage": "None", 
+	
+		"total": "103286.09", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "102809.45", 
+	
+		"taxable_benefits": "102.88", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Judith Lafleur", 
+	
+		"year": "2018", 
+	
+		"position": "Professor", 
+	
+		"change_percentage": "-5.92", 
+	
+		"total": "102912.33", 
+	
+		"change": "-6479.97"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "102798.9", 
+	
+		"taxable_benefits": "102.88", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Cathy Collyer", 
+	
+		"year": "2018", 
+	
+		"position": "Professor", 
+	
+		"change_percentage": "None", 
+	
+		"total": "102901.78", 
+	
+		"change": "None"
+	
+	}
+
+],
+  "11": [
+    
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "107754.29", 
+	
+		"taxable_benefits": "73.64", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Sandra Heron", 
+	
+		"year": "2018", 
+	
+		"position": "Manager, Student Retention and Academic Success", 
+	
+		"change_percentage": "None", 
+	
+		"total": "107827.93", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "107072.55", 
+	
+		"taxable_benefits": "102.88", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Neil Hunter", 
+	
+		"year": "2018", 
+	
+		"position": "Professor", 
+	
+		"change_percentage": "-1.22", 
+	
+		"total": "107175.43", 
+	
+		"change": "-1324.11"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "106814.58", 
+	
+		"taxable_benefits": "102.88", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Carol Ann Samhaber", 
+	
+		"year": "2018", 
+	
+		"position": "Professor", 
+	
+		"change_percentage": "-6.64", 
+	
+		"total": "106917.46", 
+	
+		"change": "-7599.48"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "106710.36", 
+	
+		"taxable_benefits": "0.0", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Kevin Holmes", 
+	
+		"year": "2018", 
+	
+		"position": "Project Manager, Health and Wellness Research Centre", 
+	
+		"change_percentage": "-0.49", 
+	
+		"total": "106710.36", 
+	
+		"change": "-525.58"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "105351.81", 
+	
+		"taxable_benefits": "51.57", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Ron Norris", 
+	
+		"year": "2018", 
+	
+		"position": "Network Architect", 
+	
+		"change_percentage": "None", 
+	
+		"total": "105403.38", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "105087.0", 
+	
+		"taxable_benefits": "102.88", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Linda Crane", 
+	
+		"year": "2018", 
+	
+		"position": "Professor", 
+	
+		"change_percentage": "None", 
+	
+		"total": "105189.88", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "104854.9", 
+	
+		"taxable_benefits": "102.88", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Sylvia Densmore", 
+	
+		"year": "2018", 
+	
+		"position": "Professor", 
+	
+		"change_percentage": "-8.07", 
+	
+		"total": "104957.78", 
+	
+		"change": "-9217.96"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "104677.84", 
+	
+		"taxable_benefits": "102.88", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Robert Hyde", 
+	
+		"year": "2018", 
+	
+		"position": "Professor", 
+	
+		"change_percentage": "None", 
+	
+		"total": "104780.72", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "104372.09", 
+	
+		"taxable_benefits": "211.31", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Denis Lefebvre", 
+	
+		"year": "2018", 
+	
+		"position": "Business Administrator, Faculty of Health, Public Safety and Community", 
+	
+		"change_percentage": "1.86", 
+	
+		"total": "104583.4", 
+	
+		"change": "1906.0"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "104282.01", 
+	
+		"taxable_benefits": "209.69", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Nadia Ramseier", 
+	
+		"year": "2018", 
+	
+		"position": "Marketing Manager, International Student Recruitment", 
+	
+		"change_percentage": "None", 
+	
+		"total": "104491.7", 
+	
+		"change": "None"
+	
+	}
+
+],
+  "10": [
+    
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "111582.89", 
+	
+		"taxable_benefits": "0.0", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Wes Wilkinson", 
+	
+		"year": "2018", 
+	
+		"position": "Academic Manager, Hospitality Studies", 
+	
+		"change_percentage": "None", 
+	
+		"total": "111582.89", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "111295.58", 
+	
+		"taxable_benefits": "214.2", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Krisha Stanton", 
+	
+		"year": "2018", 
+	
+		"position": "Manager, Enrolment and Student Financial Support", 
+	
+		"change_percentage": "11.22", 
+	
+		"total": "111509.78", 
+	
+		"change": "11247.22"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "111098.04", 
+	
+		"taxable_benefits": "102.88", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "David Fairbanks", 
+	
+		"year": "2018", 
+	
+		"position": "Professor", 
+	
+		"change_percentage": "None", 
+	
+		"total": "111200.92", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "110595.45", 
+	
+		"taxable_benefits": "0.0", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Kathy Matthews", 
+	
+		"year": "2018", 
+	
+		"position": "Project Manager, Human Resources", 
+	
+		"change_percentage": "None", 
+	
+		"total": "110595.45", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "110382.91", 
+	
+		"taxable_benefits": "0.0", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Leanna Verrucci", 
+	
+		"year": "2018", 
+	
+		"position": "Entrepreneurship Manager, Ignite Algonquin College Centre", 
+	
+		"change_percentage": "7.70", 
+	
+		"total": "110382.91", 
+	
+		"change": "7890.67"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "109816.44", 
+	
+		"taxable_benefits": "93.93", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Katherine Root", 
+	
+		"year": "2018", 
+	
+		"position": "Chair, Marketing, Entrepreneurship and Office Studies", 
+	
+		"change_percentage": "6.34", 
+	
+		"total": "109910.37", 
+	
+		"change": "6552.39"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "109567.48", 
+	
+		"taxable_benefits": "224.98", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Mary Baxter", 
+	
+		"year": "2018", 
+	
+		"position": "General Manager, Food Service Operations", 
+	
+		"change_percentage": "5.01", 
+	
+		"total": "109792.46", 
+	
+		"change": "5235.38"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "108213.16", 
+	
+		"taxable_benefits": "213.38", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Suzannah Dimarco", 
+	
+		"year": "2018", 
+	
+		"position": "Process Improvement Consultant", 
+	
+		"change_percentage": "None", 
+	
+		"total": "108426.54", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "107968.33", 
+	
+		"taxable_benefits": "198.56", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Tracy Mcdougall", 
+	
+		"year": "2018", 
+	
+		"position": "Director Presidents Office", 
+	
+		"change_percentage": "None", 
+	
+		"total": "108166.89", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "107876.02", 
+	
+		"taxable_benefits": "222.03", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Benjamin Bridgstock", 
+	
+		"year": "2018", 
+	
+		"position": "Manager, Counselling and Aboriginal Services", 
+	
+		"change_percentage": "7.40", 
+	
+		"total": "108098.05", 
+	
+		"change": "7450.69"
+	
+	}
+
+],
+  "9": [
+    
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "115530.18", 
+	
+		"taxable_benefits": "234.32", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Hugh Wright", 
+	
+		"year": "2018", 
+	
+		"position": "Manager, Algonquin College Corporate Training", 
+	
+		"change_percentage": "7.07", 
+	
+		"total": "115764.5", 
+	
+		"change": "7648.06"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "114870.09", 
+	
+		"taxable_benefits": "233.54", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Manon Levesque", 
+	
+		"year": "2018", 
+	
+		"position": "Manager, Facilities, Operations and Maintenance Services", 
+	
+		"change_percentage": "7.03", 
+	
+		"total": "115103.63", 
+	
+		"change": "7557.55"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "114494.21", 
+	
+		"taxable_benefits": "235.59", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Dan Allaire", 
+	
+		"year": "2018", 
+	
+		"position": "Manager, End Point Support Services", 
+	
+		"change_percentage": "1.86", 
+	
+		"total": "114729.8", 
+	
+		"change": "2096.67"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "114494.2", 
+	
+		"taxable_benefits": "235.59", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Patricia Lychak", 
+	
+		"year": "2018", 
+	
+		"position": "Academic Manager, Centre for Continuing and Online Learning", 
+	
+		"change_percentage": "1.86", 
+	
+		"total": "114729.79", 
+	
+		"change": "2096.66"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "114403.9", 
+	
+		"taxable_benefits": "145.31", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Muriel Richards", 
+	
+		"year": "2018", 
+	
+		"position": "Manager, Corporate Training Centre", 
+	
+		"change_percentage": "None", 
+	
+		"total": "114549.21", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "114376.16", 
+	
+		"taxable_benefits": "112.08", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Charles Doyle", 
+	
+		"year": "2018", 
+	
+		"position": "Manager, Business Process Review", 
+	
+		"change_percentage": "None", 
+	
+		"total": "114488.24", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "112823.59", 
+	
+		"taxable_benefits": "0.0", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Karen Keays", 
+	
+		"year": "2018", 
+	
+		"position": "Project Manager", 
+	
+		"change_percentage": "None", 
+	
+		"total": "112823.59", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "112760.6", 
+	
+		"taxable_benefits": "0.0", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Theodore Mirtchev", 
+	
+		"year": "2018", 
+	
+		"position": "Project Manager", 
+	
+		"change_percentage": "9.86", 
+	
+		"total": "112760.6", 
+	
+		"change": "10121.02"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "112157.51", 
+	
+		"taxable_benefits": "203.42", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Barbara Nauth", 
+	
+		"year": "2018", 
+	
+		"position": "Financial Services Supervisor", 
+	
+		"change_percentage": "None", 
+	
+		"total": "112360.93", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "112216.7", 
+	
+		"taxable_benefits": "135.68", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Larry Fisher", 
+	
+		"year": "2018", 
+	
+		"position": "Manage Algonquin College in the Ottawa Valley Facilities and Operations", 
+	
+		"change_percentage": "None", 
+	
+		"total": "112352.38", 
+	
+		"change": "None"
+	
+	}
+
+],
+  "8": [
+    
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "117880.31", 
+	
+		"taxable_benefits": "238.7", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Leah-Anne Brown", 
+	
+		"year": "2018", 
+	
+		"position": "Manager, Human Resources Transformation", 
+	
+		"change_percentage": "0.89", 
+	
+		"total": "118119.01", 
+	
+		"change": "1041.99"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "117880.31", 
+	
+		"taxable_benefits": "238.7", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Rebecca Volk", 
+	
+		"year": "2018", 
+	
+		"position": "Manager, Centre for Organizational Learning", 
+	
+		"change_percentage": "2.84", 
+	
+		"total": "118119.01", 
+	
+		"change": "3263.29"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "117862.86", 
+	
+		"taxable_benefits": "191.0", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Emily Woods", 
+	
+		"year": "2018", 
+	
+		"position": "Associate Director, Finance", 
+	
+		"change_percentage": "None", 
+	
+		"total": "118053.86", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "117730.95", 
+	
+		"taxable_benefits": "233.82", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Peggy Austen", 
+	
+		"year": "2018", 
+	
+		"position": "Director, Algonquin College Foundation", 
+	
+		"change_percentage": "None", 
+	
+		"total": "117964.77", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "117790.03", 
+	
+		"taxable_benefits": "148.42", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Connie Powers", 
+	
+		"year": "2018", 
+	
+		"position": "Manager, Organizational Effectiveness", 
+	
+		"change_percentage": "None", 
+	
+		"total": "117938.45", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "117592.4", 
+	
+		"taxable_benefits": "260.03", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Rebecca Trueman", 
+	
+		"year": "2018", 
+	
+		"position": "Chair, Applied Science and Environmental Technology", 
+	
+		"change_percentage": "None", 
+	
+		"total": "117852.43", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "117232.58", 
+	
+		"taxable_benefits": "0.0", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Marlene Tosh", 
+	
+		"year": "2018", 
+	
+		"position": "Chair, Specialty Nursing Programs and Contract Training", 
+	
+		"change_percentage": "-18.52", 
+	
+		"total": "117232.58", 
+	
+		"change": "-26644.7"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "116005.24", 
+	
+		"taxable_benefits": "746.63", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Lynn Schumann", 
+	
+		"year": "2018", 
+	
+		"position": "Manager, Registrars Office Strategic Management Enrollment Student Information System Project", 
+	
+		"change_percentage": "-1.59", 
+	
+		"total": "116751.87", 
+	
+		"change": "-1886.44"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "116556.7", 
+	
+		"taxable_benefits": "110.46", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Gordon Warner", 
+	
+		"year": "2018", 
+	
+		"position": "Associate Director, Strategic Procurement", 
+	
+		"change_percentage": "15.91", 
+	
+		"total": "116667.16", 
+	
+		"change": "16013.97"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "116188.27", 
+	
+		"taxable_benefits": "237.66", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Sandra Larwill", 
+	
+		"year": "2018", 
+	
+		"position": "Academic Manager, Advanced Technologies, Building Trades, Media Design", 
+	
+		"change_percentage": "-8.90", 
+	
+		"total": "116425.93", 
+	
+		"change": "-11368.84"
+	
+	}
+
+],
+  "7": [
+    
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "121830.39", 
+	
+		"taxable_benefits": "240.78", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Craig Delmage", 
+	
+		"year": "2018", 
+	
+		"position": "Manager, Information Security", 
+	
+		"change_percentage": "6.21", 
+	
+		"total": "122071.17", 
+	
+		"change": "7135.45"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "121819.39", 
+	
+		"taxable_benefits": "0.0", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Karen Lemieux", 
+	
+		"year": "2018", 
+	
+		"position": "Senior Test Lead", 
+	
+		"change_percentage": "None", 
+	
+		"total": "121819.39", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "120524.95", 
+	
+		"taxable_benefits": "247.62", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Keith Seymour", 
+	
+		"year": "2018", 
+	
+		"position": "Chair, Management Studies", 
+	
+		"change_percentage": "None", 
+	
+		"total": "120772.57", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "120001.8", 
+	
+		"taxable_benefits": "104.19", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Jamie Bramburger", 
+	
+		"year": "2018", 
+	
+		"position": "Manager, Community and Student Affairs", 
+	
+		"change_percentage": "0.18", 
+	
+		"total": "120105.99", 
+	
+		"change": "217.55"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "119403.4", 
+	
+		"taxable_benefits": "235.59", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Harpreet Singh Sonu", 
+	
+		"year": "2018", 
+	
+		"position": "Academic Manager, Curriculum Services", 
+	
+		"change_percentage": "2.90", 
+	
+		"total": "119638.99", 
+	
+		"change": "3369.77"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "119511.54", 
+	
+		"taxable_benefits": "0.0", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Sharon Burke", 
+	
+		"year": "2018", 
+	
+		"position": "Project Manager", 
+	
+		"change_percentage": "None", 
+	
+		"total": "119511.54", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "119091.19", 
+	
+		"taxable_benefits": "112.0", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Claire Ramsay", 
+	
+		"year": "2018", 
+	
+		"position": "Chair, Career and Academic Access", 
+	
+		"change_percentage": "9.92", 
+	
+		"total": "119203.19", 
+	
+		"change": "10759.06"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "118557.31", 
+	
+		"taxable_benefits": "238.7", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Tammy Thornton", 
+	
+		"year": "2018", 
+	
+		"position": "Manager, Learning Resource Centre", 
+	
+		"change_percentage": "None", 
+	
+		"total": "118796.01", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "117997.31", 
+	
+		"taxable_benefits": "238.7", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Paul Gardner", 
+	
+		"year": "2018", 
+	
+		"position": "Senior Finance Manager, Special Projects", 
+	
+		"change_percentage": "10.88", 
+	
+		"total": "118236.01", 
+	
+		"change": "11597.39"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "117952.28", 
+	
+		"taxable_benefits": "193.67", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Carolle Gauthier", 
+	
+		"year": "2018", 
+	
+		"position": "Manager, Corporate Budgeting Enterprise Resource Plan Project", 
+	
+		"change_percentage": "1.64", 
+	
+		"total": "118145.95", 
+	
+		"change": "1904.0"
+	
+	}
+
+],
+  "6": [
+    
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "129165.81", 
+	
+		"taxable_benefits": "262.1", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Andrew Coxhead", 
+	
+		"year": "2018", 
+	
+		"position": "Chair, Media Studies", 
+	
+		"change_percentage": "8.20", 
+	
+		"total": "129427.91", 
+	
+		"change": "9807.87"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "128656.76", 
+	
+		"taxable_benefits": "759.03", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Laura Cohen", 
+	
+		"year": "2018", 
+	
+		"position": "Chair, Police and Public Safety Institute", 
+	
+		"change_percentage": "8.54", 
+	
+		"total": "129415.79", 
+	
+		"change": "10187.15"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "128755.53", 
+	
+		"taxable_benefits": "264.31", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Jeffery Agate", 
+	
+		"year": "2018", 
+	
+		"position": "Associate Director, Student Support Services", 
+	
+		"change_percentage": "None", 
+	
+		"total": "129019.84", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "127586.81", 
+	
+		"taxable_benefits": "56.73", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Linda Reiche", 
+	
+		"year": "2018", 
+	
+		"position": "Professor", 
+	
+		"change_percentage": "17.62", 
+	
+		"total": "127643.54", 
+	
+		"change": "19123.48"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "127126.54", 
+	
+		"taxable_benefits": "260.84", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Sandra Mccormick", 
+	
+		"year": "2018", 
+	
+		"position": "Chair, Wellness and Innovation", 
+	
+		"change_percentage": "None", 
+	
+		"total": "127387.38", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "127011.57", 
+	
+		"taxable_benefits": "184.61", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Rod Martin", 
+	
+		"year": "2018", 
+	
+		"position": "Manager, Network Infrastructure", 
+	
+		"change_percentage": "-1.32", 
+	
+		"total": "127196.18", 
+	
+		"change": "-1704.05"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "124052.19", 
+	
+		"taxable_benefits": "255.01", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Shaun Barr", 
+	
+		"year": "2018", 
+	
+		"position": "Chair, Construction Trades and Building Systems", 
+	
+		"change_percentage": "None", 
+	
+		"total": "124307.2", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "123511.37", 
+	
+		"taxable_benefits": "250.36", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Alanna Mcdonell", 
+	
+		"year": "2018", 
+	
+		"position": "Director, Marketing", 
+	
+		"change_percentage": "None", 
+	
+		"total": "123761.73", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "123065.97", 
+	
+		"taxable_benefits": "200.99", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Yen Do", 
+	
+		"year": "2018", 
+	
+		"position": "Manager, Information Technology Application and Development", 
+	
+		"change_percentage": "None", 
+	
+		"total": "123266.96", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "123012.25", 
+	
+		"taxable_benefits": "107.27", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Valerie Fiset", 
+	
+		"year": "2018", 
+	
+		"position": "Chair, Nursing Studies", 
+	
+		"change_percentage": "None", 
+	
+		"total": "123119.52", 
+	
+		"change": "None"
+	
+	}
+
+],
+  "5": [
+    
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "131294.6", 
+	
+		"taxable_benefits": "266.38", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Altaf Sovani", 
+	
+		"year": "2018", 
+	
+		"position": "Chair, Hospitality and Tourism", 
+	
+		"change_percentage": "3.05", 
+	
+		"total": "131560.98", 
+	
+		"change": "3896.56"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "131142.29", 
+	
+		"taxable_benefits": "114.07", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Eric Marois", 
+	
+		"year": "2018", 
+	
+		"position": "Chair, Architecture, Civil and Building Science", 
+	
+		"change_percentage": "0.75", 
+	
+		"total": "131256.36", 
+	
+		"change": "980.56"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "130024.56", 
+	
+		"taxable_benefits": "265.34", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Michael Bakogeorge", 
+	
+		"year": "2018", 
+	
+		"position": "Chair, Culinary Programs", 
+	
+		"change_percentage": "1.84", 
+	
+		"total": "130289.9", 
+	
+		"change": "2357.48"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "130024.54", 
+	
+		"taxable_benefits": "265.34", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Andrew Pridham", 
+	
+		"year": "2018", 
+	
+		"position": "Chair, Information and Communications Technology", 
+	
+		"change_percentage": "None", 
+	
+		"total": "130289.88", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "129676.61", 
+	
+		"taxable_benefits": "263.14", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Farbod Karimi", 
+	
+		"year": "2018", 
+	
+		"position": "Chair, Learning and Teaching Services", 
+	
+		"change_percentage": "8.72", 
+	
+		"total": "129939.75", 
+	
+		"change": "10418.44"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "129674.3", 
+	
+		"taxable_benefits": "112.0", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Joan Degan", 
+	
+		"year": "2018", 
+	
+		"position": "Chair, Allied Health Programs", 
+	
+		"change_percentage": "2.62", 
+	
+		"total": "129786.3", 
+	
+		"change": "3319.39"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "129604.26", 
+	
+		"taxable_benefits": "113.04", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Silvia Rodriguez De Garcia", 
+	
+		"year": "2018", 
+	
+		"position": "Chair, Language Institute", 
+	
+		"change_percentage": "2.57", 
+	
+		"total": "129717.3", 
+	
+		"change": "3250.39"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "129604.26", 
+	
+		"taxable_benefits": "113.04", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Peter Fortura", 
+	
+		"year": "2018", 
+	
+		"position": "Chair, Business Administration", 
+	
+		"change_percentage": "None", 
+	
+		"total": "129717.3", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "129538.79", 
+	
+		"taxable_benefits": "102.88", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Leslie Wyman", 
+	
+		"year": "2018", 
+	
+		"position": "Professor", 
+	
+		"change_percentage": "25.04", 
+	
+		"total": "129641.67", 
+	
+		"change": "25962.39"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "129305.96", 
+	
+		"taxable_benefits": "263.49", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Maria Grammatikakis", 
+	
+		"year": "2018", 
+	
+		"position": "Chair, Financial Accounting and Legal Studies", 
+	
+		"change_percentage": "None", 
+	
+		"total": "129569.45", 
+	
+		"change": "None"
+	
+	}
+
+],
+  "4": [
+    
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "140110.96", 
+	
+		"taxable_benefits": "0.0", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Joanne Snell", 
+	
+		"year": "2018", 
+	
+		"position": "Senior Learning Consultant", 
+	
+		"change_percentage": "None", 
+	
+		"total": "140110.96", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "139151.97", 
+	
+		"taxable_benefits": "57.89", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Marc Fares", 
+	
+		"year": "2018", 
+	
+		"position": "Vice President, Digital Technologies and Innovation", 
+	
+		"change_percentage": "-36.52", 
+	
+		"total": "139209.86", 
+	
+		"change": "-80072.09"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "133334.72", 
+	
+		"taxable_benefits": "63.72", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Lionel Patry", 
+	
+		"year": "2018", 
+	
+		"position": "Professor", 
+	
+		"change_percentage": "26.23", 
+	
+		"total": "133398.44", 
+	
+		"change": "27718.79"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "132999.7", 
+	
+		"taxable_benefits": "276.72", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Christopher Hahn", 
+	
+		"year": "2018", 
+	
+		"position": "Dean, Algonquin College Heritage Institute", 
+	
+		"change_percentage": "-1.80", 
+	
+		"total": "133276.42", 
+	
+		"change": "-2448.51"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "132563.64", 
+	
+		"taxable_benefits": "267.42", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "David Thibodeau", 
+	
+		"year": "2018", 
+	
+		"position": "Chair, Mechanical and Transportation Technology", 
+	
+		"change_percentage": "None", 
+	
+		"total": "132831.06", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "132258.64", 
+	
+		"taxable_benefits": "267.42", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Phillip Rouble", 
+	
+		"year": "2018", 
+	
+		"position": "Associate Director, Facilities, Planning and Sustainability", 
+	
+		"change_percentage": "0.28", 
+	
+		"total": "132526.06", 
+	
+		"change": "364.75"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "131929.64", 
+	
+		"taxable_benefits": "267.42", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Sherryl Fraser", 
+	
+		"year": "2018", 
+	
+		"position": "Chair, Design Studies", 
+	
+		"change_percentage": "None", 
+	
+		"total": "132197.06", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "131506.36", 
+	
+		"taxable_benefits": "265.08", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Megan Conway", 
+	
+		"year": "2018", 
+	
+		"position": "Chair, Health and Community Studies", 
+	
+		"change_percentage": "27.92", 
+	
+		"total": "131771.44", 
+	
+		"change": "28761.86"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "131742.82", 
+	
+		"taxable_benefits": "0.0", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "John Omura", 
+	
+		"year": "2018", 
+	
+		"position": "Project Manager, Applied Research", 
+	
+		"change_percentage": "20.96", 
+	
+		"total": "131742.82", 
+	
+		"change": "22827.62"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "131294.6", 
+	
+		"taxable_benefits": "266.38", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Jane Trakalo", 
+	
+		"year": "2018", 
+	
+		"position": "Chair, Community Studies", 
+	
+		"change_percentage": "3.87", 
+	
+		"total": "131560.98", 
+	
+		"change": "4897.85"
+	
+	}
+
+],
+  "3": [
+    
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "151062.05", 
+	
+		"taxable_benefits": "188.81", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Todd Schonewille", 
+	
+		"year": "2018", 
+	
+		"position": "Director, Physical Resources", 
+	
+		"change_percentage": "15.60", 
+	
+		"total": "151250.86", 
+	
+		"change": "20414.88"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "150837.41", 
+	
+		"taxable_benefits": "188.24", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Diane Mccutcheon", 
+	
+		"year": "2018", 
+	
+		"position": "Director, Labour Relations", 
+	
+		"change_percentage": "0.37", 
+	
+		"total": "151025.65", 
+	
+		"change": "556.48"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "150043.5", 
+	
+		"taxable_benefits": "311.58", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "James Gregory Kyte", 
+	
+		"year": "2018", 
+	
+		"position": "Dean, School of Hospitality and Tourism", 
+	
+		"change_percentage": "None", 
+	
+		"total": "150355.08", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "149863.68", 
+	
+		"taxable_benefits": "131.76", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Robyn Heaton", 
+	
+		"year": "2018", 
+	
+		"position": "Dean, Faculty Arts, Media and Design", 
+	
+		"change_percentage": "-2.13", 
+	
+		"total": "149995.44", 
+	
+		"change": "-3264.89"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "148088.56", 
+	
+		"taxable_benefits": "300.39", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Joe Ranieri", 
+	
+		"year": "2018", 
+	
+		"position": "Director, Business Development", 
+	
+		"change_percentage": "0.88", 
+	
+		"total": "148388.95", 
+	
+		"change": "1296.25"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "145098.82", 
+	
+		"taxable_benefits": "293.98", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Nora Cristina Holguin-Pando", 
+	
+		"year": "2018", 
+	
+		"position": "Director, Applied Research and Innovation", 
+	
+		"change_percentage": "None", 
+	
+		"total": "145392.8", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "143877.73", 
+	
+		"taxable_benefits": "0.0", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Andrea Fobert", 
+	
+		"year": "2018", 
+	
+		"position": "Senior Project Manager", 
+	
+		"change_percentage": "None", 
+	
+		"total": "143877.73", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "141501.49", 
+	
+		"taxable_benefits": "281.58", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Colin Bonang", 
+	
+		"year": "2018", 
+	
+		"position": "Director, Risk Management", 
+	
+		"change_percentage": "4.54", 
+	
+		"total": "141783.07", 
+	
+		"change": "6163.25"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "140764.61", 
+	
+		"taxable_benefits": "584.9", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Grant Perry", 
+	
+		"year": "2018", 
+	
+		"position": "Director, Finance and Administrative Services", 
+	
+		"change_percentage": "19.05", 
+	
+		"total": "141349.51", 
+	
+		"change": "22616.95"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "140916.52", 
+	
+		"taxable_benefits": "270.74", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Amy Desjardins", 
+	
+		"year": "2018", 
+	
+		"position": "Executive Director, Algonquin College Foundation", 
+	
+		"change_percentage": "-16.30", 
+	
+		"total": "141187.26", 
+	
+		"change": "-27492.03"
+	
+	}
+
+],
+  "2": [
+		
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "159259.76", 
+	
+		"taxable_benefits": "318.84", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Christopher Janzen", 
+	
+		"year": "2018", 
+	
+		"position": "Dean, Faculty Technology and Trades", 
+	
+		"change_percentage": "None", 
+	
+		"total": "159578.6", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "156938.78", 
+	
+		"taxable_benefits": "243.86", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Barbara Foulds", 
+	
+		"year": "2018", 
+	
+		"position": "Dean, Faculty Health, Public Safety and Community Studies", 
+	
+		"change_percentage": "None", 
+	
+		"total": "157182.64", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "156677.78", 
+	
+		"taxable_benefits": "306.61", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Krista Pearson", 
+	
+		"year": "2018", 
+	
+		"position": "Registrar", 
+	
+		"change_percentage": "7.62", 
+	
+		"total": "156984.39", 
+	
+		"change": "11116.99"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "154906.8", 
+	
+		"taxable_benefits": "117.05", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Michael Gawargy", 
+	
+		"year": "2018", 
+	
+		"position": "Director, Information Technology Services", 
+	
+		"change_percentage": "-6.54", 
+	
+		"total": "155023.85", 
+	
+		"change": "-10854.15"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "154077.79", 
+	
+		"taxable_benefits": "134.87", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Patrick Devey", 
+	
+		"year": "2018", 
+	
+		"position": "Dean, Centre for Continuing and Online Learning", 
+	
+		"change_percentage": "None", 
+	
+		"total": "154212.66", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "153789.61", 
+	
+		"taxable_benefits": "314.69", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Margaret Cusson", 
+	
+		"year": "2018", 
+	
+		"position": "Dean, Academic Development", 
+	
+		"change_percentage": "None", 
+	
+		"total": "154104.3", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "152291.57", 
+	
+		"taxable_benefits": "313.65", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Karen Davies", 
+	
+		"year": "2018", 
+	
+		"position": "Dean, Algonquin College in the Ottawa Valley", 
+	
+		"change_percentage": "0.15", 
+	
+		"total": "152605.22", 
+	
+		"change": "235.91"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "152239.67", 
+	
+		"taxable_benefits": "303.5", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Ernest Mulvey", 
+	
+		"year": "2018", 
+	
+		"position": "Director, International", 
+	
+		"change_percentage": "4.91", 
+	
+		"total": "152543.17", 
+	
+		"change": "7141.77"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "152111.75", 
+	
+		"taxable_benefits": "133.83", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Dave Donaldson", 
+	
+		"year": "2018", 
+	
+		"position": "Dean, School of Business", 
+	
+		"change_percentage": "1.57", 
+	
+		"total": "152245.58", 
+	
+		"change": "2358.14"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "151371.45", 
+	
+		"taxable_benefits": "300.18", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Brent Brownlee", 
+	
+		"year": "2018", 
+	
+		"position": "Director, Ancillary Services", 
+	
+		"change_percentage": "8.47", 
+	
+		"total": "151671.63", 
+	
+		"change": "11845.88"
+	
+	}
+
+],
+  "1": [
+	{
+		"sector": "College", 
+		"salary_paid": "159259.76", 
+		"taxable_benefits": "318.84", 
+		"employer": "Algonquin College", 
+		"full_name": "Christopher Janzen", 
+		"year": "2018", 
+		"position": "Dean, Faculty Technology and Trades", 
+		"change_percentage": "None", 
+		"total": "159578.6", 
+		"change": "None"
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "156938.78", 
+	
+		"taxable_benefits": "243.86", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Barbara Foulds", 
+	
+		"year": "2018", 
+	
+		"position": "Dean, Faculty Health, Public Safety and Community Studies", 
+	
+		"change_percentage": "None", 
+	
+		"total": "157182.64", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "156677.78", 
+	
+		"taxable_benefits": "306.61", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Krista Pearson", 
+	
+		"year": "2018", 
+	
+		"position": "Registrar", 
+	
+		"change_percentage": "7.62", 
+	
+		"total": "156984.39", 
+	
+		"change": "11116.99"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "154906.8", 
+	
+		"taxable_benefits": "117.05", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Michael Gawargy", 
+	
+		"year": "2018", 
+	
+		"position": "Director, Information Technology Services", 
+	
+		"change_percentage": "-6.54", 
+	
+		"total": "155023.85", 
+	
+		"change": "-10854.15"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "154077.79", 
+	
+		"taxable_benefits": "134.87", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Patrick Devey", 
+	
+		"year": "2018", 
+	
+		"position": "Dean, Centre for Continuing and Online Learning", 
+	
+		"change_percentage": "None", 
+	
+		"total": "154212.66", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "153789.61", 
+	
+		"taxable_benefits": "314.69", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Margaret Cusson", 
+	
+		"year": "2018", 
+	
+		"position": "Dean, Academic Development", 
+	
+		"change_percentage": "None", 
+	
+		"total": "154104.3", 
+	
+		"change": "None"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "152291.57", 
+	
+		"taxable_benefits": "313.65", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Karen Davies", 
+	
+		"year": "2018", 
+	
+		"position": "Dean, Algonquin College in the Ottawa Valley", 
+	
+		"change_percentage": "0.15", 
+	
+		"total": "152605.22", 
+	
+		"change": "235.91"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "152239.67", 
+	
+		"taxable_benefits": "303.5", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Ernest Mulvey", 
+	
+		"year": "2018", 
+	
+		"position": "Director, International", 
+	
+		"change_percentage": "4.91", 
+	
+		"total": "152543.17", 
+	
+		"change": "7141.77"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "152111.75", 
+	
+		"taxable_benefits": "133.83", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Dave Donaldson", 
+	
+		"year": "2018", 
+	
+		"position": "Dean, School of Business", 
+	
+		"change_percentage": "1.57", 
+	
+		"total": "152245.58", 
+	
+		"change": "2358.14"
+	
+	}, 
+
+	{
+	
+		"sector": "College", 
+	
+		"salary_paid": "151371.45", 
+	
+		"taxable_benefits": "300.18", 
+	
+		"employer": "Algonquin College", 
+	
+		"full_name": "Brent Brownlee", 
+	
+		"year": "2018", 
+	
+		"position": "Director, Ancillary Services", 
+	
+		"change_percentage": "8.47", 
+	
+		"total": "151671.63", 
+	
+		"change": "11845.88"
+	
+	}
+
+],
+  "0": [
+    
+    	{
+    	
+    		"sector": "College", 
+    	
+    		"salary_paid": "340924.76", 
+    	
+    		"taxable_benefits": "3424.64", 
+    	
+    		"employer": "Algonquin College", 
+    	
+    		"full_name": "Cheryl Jensen", 
+    	
+    		"year": "2018", 
+    	
+    		"position": "President", 
+    	
+    		"change_percentage": "3.06", 
+    	
+    		"total": "344349.4", 
+    	
+    		"change": "10214.68"
+    	
+    	}, 
+    
+    	{
+    	
+    		"sector": "College", 
+    	
+    		"salary_paid": "231019.79", 
+    	
+    		"taxable_benefits": "417.99", 
+    	
+    		"employer": "Algonquin College", 
+    	
+    		"full_name": "Claude Brule", 
+    	
+    		"year": "2018", 
+    	
+    		"position": "Senior Vice President, Academic", 
+    	
+    		"change_percentage": "0.14", 
+    	
+    		"total": "231437.78", 
+    	
+    		"change": "314.46"
+    	
+    	}, 
+    
+    	{
+    	
+    		"sector": "College", 
+    	
+    		"salary_paid": "230791.14", 
+    	
+    		"taxable_benefits": "189.34", 
+    	
+    		"employer": "Algonquin College", 
+    	
+    		"full_name": "Doug Wotherspoon", 
+    	
+    		"year": "2018", 
+    	
+    		"position": "Vice President, Innovation and Strategy", 
+    	
+    		"change_percentage": "0.07", 
+    	
+    		"total": "230980.48", 
+    	
+    		"change": "153.8"
+    	
+    	}, 
+    
+    	{
+    	
+    		"sector": "College", 
+    	
+    		"salary_paid": "230791.14", 
+    	
+    		"taxable_benefits": "189.34", 
+    	
+    		"employer": "Algonquin College", 
+    	
+    		"full_name": "Catherine Frederick", 
+    	
+    		"year": "2018", 
+    	
+    		"position": "Vice President, Human Resources", 
+    	
+    		"change_percentage": "4.64", 
+    	
+    		"total": "230980.48", 
+    	
+    		"change": "10244.87"
+    	
+    	}, 
+    
+    	{
+    	
+    		"sector": "College", 
+    	
+    		"salary_paid": "221787.35", 
+    	
+    		"taxable_benefits": "408.83", 
+    	
+    		"employer": "Algonquin College", 
+    	
+    		"full_name": "Laura Stanbra", 
+    	
+    		"year": "2018", 
+    	
+    		"position": "Vice President, Student Services", 
+    	
+    		"change_percentage": "0.14", 
+    	
+    		"total": "222196.18", 
+    	
+    		"change": "306.87"
+    	
+    	}, 
+    
+    	{
+    	
+    		"sector": "College", 
+    	
+    		"salary_paid": "221787.35", 
+    	
+    		"taxable_benefits": "408.83", 
+    	
+    		"employer": "Algonquin College", 
+    	
+    		"full_name": "Duane Mcnair", 
+    	
+    		"year": "2018", 
+    	
+    		"position": "Vice President, Finance and Administration", 
+    	
+    		"change_percentage": "0.14", 
+    	
+    		"total": "222196.18", 
+    	
+    		"change": "306.87"
+    	
+    	}, 
+    
+    	{
+    	
+    		"sector": "College", 
+    	
+    		"salary_paid": "194666.08", 
+    	
+    		"taxable_benefits": "369.1", 
+    	
+    		"employer": "Algonquin College", 
+    	
+    		"full_name": "Scott Anderson", 
+    	
+    		"year": "2018", 
+    	
+    		"position": "Executive Director, Communications, Marketing, External Relations", 
+    	
+    		"change_percentage": "9.79", 
+    	
+    		"total": "195035.18", 
+    	
+    		"change": "17395.65"
+    	
+    	}, 
+    
+    	{
+    	
+    		"sector": "College", 
+    	
+    		"salary_paid": "168105.38", 
+    	
+    		"taxable_benefits": "145.37", 
+    	
+    		"employer": "Algonquin College", 
+    	
+    		"full_name": "Ronald Mclester", 
+    	
+    		"year": "2018", 
+    	
+    		"position": "Executive Director, Truth, Reconciliation and Indigenization", 
+    	
+    		"change_percentage": "None", 
+    	
+    		"total": "168250.75", 
+    	
+    		"change": "None"
+    	
+    	}, 
+    
+    	{
+    	
+    		"sector": "College", 
+    	
+    		"salary_paid": "164837.06", 
+    	
+    		"taxable_benefits": "337.05", 
+    	
+    		"employer": "Algonquin College", 
+    	
+    		"full_name": "Mark Leduc", 
+    	
+    		"year": "2018", 
+    	
+    		"position": "Executive Director, Academic Operations and Planning", 
+    	
+    		"change_percentage": "1.85", 
+    	
+    		"total": "165174.11", 
+    	
+    		"change": "3000.0"
+    	
+    	}, 
+    
+    	{
+    	
+    		"sector": "College", 
+    	
+    		"salary_paid": "162768.45", 
+    	
+    		"taxable_benefits": "256.52", 
+    	
+    		"employer": "Algonquin College", 
+    	
+    		"full_name": "Shelley Styles", 
+    	
+    		"year": "2018", 
+    	
+    		"position": "Director, Student Support Services", 
+    	
+    		"change_percentage": "8.47", 
+    	
+    		"total": "163024.97", 
+    	
+    		"change": "12727.44"
+    	
+    	}
+    
+]
+}
+
+
